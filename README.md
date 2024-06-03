@@ -13,11 +13,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0344-reverse-string](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0344-reverse-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0605-can-place-flowers](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0605-can-place-flowers) |
 # Greedy
@@ -44,4 +46,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0053-maximum-subarray) |
+# Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0042-trapping-rain-water) |
+# Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0042-trapping-rain-water) |
