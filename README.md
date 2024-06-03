@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0605-can-place-flowers](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0605-can-place-flowers) |
 # Greedy
 |  |
@@ -36,3 +37,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0012-integer-to-roman) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0053-maximum-subarray) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0053-maximum-subarray) |
