@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/1044-find-common-characters) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0067-add-binary) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -69,3 +71,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0876-hand-of-straights) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0067-add-binary) |
+# Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0067-add-binary) |
