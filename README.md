@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0053-maximum-subarray) |
+| [0523-continuous-subarray-sum](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0523-continuous-subarray-sum) |
 | [0605-can-place-flowers](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0605-can-place-flowers) |
 | [0876-hand-of-straights](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/1044-find-common-characters) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0041-first-missing-positive) |
 | [0409-longest-palindrome](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0409-longest-palindrome) |
+| [0523-continuous-subarray-sum](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0523-continuous-subarray-sum) |
 | [0876-hand-of-straights](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/1044-find-common-characters) |
 # Math
@@ -52,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0012-integer-to-roman](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0067-add-binary) |
+| [0523-continuous-subarray-sum](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0523-continuous-subarray-sum) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -81,3 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0067-add-binary) |
+# Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0523-continuous-subarray-sum) |
