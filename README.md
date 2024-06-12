@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0344-reverse-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Array
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0075-sort-colors) |
 | [0204-count-primes](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0204-count-primes) |
 | [0523-continuous-subarray-sum](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0523-continuous-subarray-sum) |
 | [0605-can-place-flowers](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0605-can-place-flowers) |
@@ -82,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0075-sort-colors) |
 | [0876-hand-of-straights](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/1217-relative-sort-array) |
