@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0344-reverse-string) |
+| [0853-most-profit-assigning-work](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0853-most-profit-assigning-work) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Array
 |  |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0204-count-primes) |
 | [0523-continuous-subarray-sum](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0523-continuous-subarray-sum) |
 | [0605-can-place-flowers](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0605-can-place-flowers) |
+| [0853-most-profit-assigning-work](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -42,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0409-longest-palindrome](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0605-can-place-flowers) |
+| [0853-most-profit-assigning-work](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -89,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0075-sort-colors) |
+| [0853-most-profit-assigning-work](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/1137-height-checker) |
@@ -121,3 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0204-count-primes) |
+# Binary Search
+|  |
+| ------- |
+| [0853-most-profit-assigning-work](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0853-most-profit-assigning-work) |
