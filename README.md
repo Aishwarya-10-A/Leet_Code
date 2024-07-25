@@ -150,11 +150,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0371-sum-of-two-integers) |
 ## Divide and Conquer
@@ -165,4 +167,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0338-counting-bits) |
+## Array
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0268-missing-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
