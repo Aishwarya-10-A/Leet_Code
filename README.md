@@ -172,10 +172,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
