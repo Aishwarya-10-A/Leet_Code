@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0238-product-of-array-except-self) |
@@ -197,4 +198,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0238-product-of-array-except-self) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
