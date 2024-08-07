@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0268-missing-number) |
+| [0273-integer-to-english-words](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0273-integer-to-english-words) |
 | [0371-sum-of-two-integers](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
@@ -206,4 +207,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0273-integer-to-english-words) |
+## Recursion
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0273-integer-to-english-words) |
 <!---LeetCode Topics End-->
