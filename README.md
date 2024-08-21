@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0268-missing-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0792-binary-search](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0792-binary-search) |
 | [0921-spiral-matrix-iii](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0921-spiral-matrix-iii) |
 | [1240-stone-game-ii](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/1240-stone-game-ii) |
 ## Hash Table
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0268-missing-number](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0268-missing-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0792-binary-search](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0792-binary-search) |
 ## Sorting
 |  |
 | ------- |
