@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0338-counting-bits) |
+| [0664-strange-printer](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/1240-stone-game-ii) |
 ## Array
 |  |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0242-valid-anagram](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0273-integer-to-english-words) |
+| [0664-strange-printer](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0664-strange-printer) |
 ## Recursion
 |  |
 | ------- |
