@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Greedy
 |  |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0273-integer-to-english-words) |
 | [0664-strange-printer](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0664-strange-printer) |
