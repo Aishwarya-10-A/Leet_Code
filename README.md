@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0238-product-of-array-except-self) |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0268-missing-number) |
@@ -218,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Greedy
