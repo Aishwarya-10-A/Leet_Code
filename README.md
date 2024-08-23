@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0792-binary-search) |
 | [0921-spiral-matrix-iii](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0921-spiral-matrix-iii) |
 | [1240-stone-game-ii](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/1240-stone-game-ii) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
