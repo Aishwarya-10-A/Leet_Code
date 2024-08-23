@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0273-integer-to-english-words) |
 | [0371-sum-of-two-integers](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0371-sum-of-two-integers) |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0268-missing-number) |
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0189-rotate-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Greedy
 |  |
