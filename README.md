@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0792-binary-search) |
 | [0921-spiral-matrix-iii](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0921-spiral-matrix-iii) |
 | [1240-stone-game-ii](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/1240-stone-game-ii) |
+| [1325-path-with-maximum-probability](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/1325-path-with-maximum-probability) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -279,4 +280,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0145-binary-tree-postorder-traversal) |
+## Graph
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/1325-path-with-maximum-probability) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/1325-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
