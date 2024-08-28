@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0238-product-of-array-except-self) |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0268-missing-number) |
@@ -219,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0268-missing-number) |
@@ -309,4 +313,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2035-count-sub-islands](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/2035-count-sub-islands) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
