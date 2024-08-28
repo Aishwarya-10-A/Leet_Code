@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1240-stone-game-ii](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/1325-path-with-maximum-probability) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2035-count-sub-islands](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/2035-count-sub-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0921-spiral-matrix-iii) |
+| [2035-count-sub-islands](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/2035-count-sub-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -279,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2035-count-sub-islands](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/2035-count-sub-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -295,4 +298,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/1325-path-with-maximum-probability) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/2035-count-sub-islands) |
+## Union Find
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->
