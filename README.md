@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0268-missing-number) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Binary Search
 |  |
 | ------- |
@@ -294,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/2035-count-sub-islands) |
 ## Binary Tree
 |  |
@@ -302,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/1325-path-with-maximum-probability) |
 ## Heap (Priority Queue)
 |  |
@@ -318,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/2035-count-sub-islands) |
 ## Counting
 |  |
