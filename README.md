@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0189-rotate-array) |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0242-valid-anagram) |
@@ -326,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0128-longest-consecutive-sequence) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/2035-count-sub-islands) |
 ## Counting
