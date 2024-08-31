@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0088-merge-sorted-array) |
@@ -277,12 +278,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0073-set-matrix-zeroes) |
 | [0921-spiral-matrix-iii](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0921-spiral-matrix-iii) |
 | [2035-count-sub-islands](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/2035-count-sub-islands) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0054-spiral-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0921-spiral-matrix-iii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/2271-rearrange-array-elements-by-sign) |
