@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0273-integer-to-english-words) |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0073-set-matrix-zeroes) |
@@ -278,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0073-set-matrix-zeroes) |
 | [0921-spiral-matrix-iii](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0921-spiral-matrix-iii) |
