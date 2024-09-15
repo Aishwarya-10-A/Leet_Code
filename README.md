@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0476-number-complement) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0560-subarray-sum-equals-k) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Binary Search
 |  |
 | ------- |
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0560-subarray-sum-equals-k) |
 | [1240-stone-game-ii](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/1240-stone-game-ii) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Two Pointers
 |  |
 | ------- |
@@ -284,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0564-find-the-closest-palindrome](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/0664-strange-printer) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Aishwarya-10-A/Leet_Code/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Recursion
 |  |
 | ------- |
